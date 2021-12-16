@@ -1,4 +1,6 @@
-# The Recipe Cafe
+Originally this repo was for the recipe cafe, but that is now another repo. This is for the grind converter part of it. This is to help **estimate** grind settings for various grinders to achieve similiar grind sizes.
+
+# Grind Converter
 
 The goal of this project is to get people drinking the best coffee of their lives. But how will software accomplish this? There are countless ways software may help, but there are a couple of fundamental aspects that this software will attempt to accomplish through various iterations.
 
